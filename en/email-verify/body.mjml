@@ -1,0 +1,17 @@
+<mjml>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+
+        <mj-image width="80px" src="https://storage.googleapis.com/gg3-images/gglogo-glow2.png"></mj-image>
+
+        <mj-divider border-color="#556cd6"></mj-divider>
+        <mj-text font-family="Helvetica" font-size="16px" color="#808080">Thank you for registering! Please click the button to verify your email address.</mj-text>
+        <mj-button font-family="Helvetica" background-color="#19857b" color="white" href="${link}">
+          Verify email
+        </mj-button>
+        <mj-text font-family="Helvetica" padding-top="40px" font-size="10px" color="#808080">This email was sent to you by GuestGuru.</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
